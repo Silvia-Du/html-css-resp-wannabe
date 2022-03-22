@@ -76,6 +76,12 @@ img {
 
 @media screen and (max-width: 479px){
 
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
   .row{
     margin: 0;
     width: 100%;
